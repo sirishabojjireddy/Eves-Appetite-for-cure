@@ -1,0 +1,2 @@
+example running sentiment api from terminal
+curl -H "Content-Type: application/json" -X POST -d '{"data":"I am happy"}' http://127.0.0.1:5000/getSentiment
